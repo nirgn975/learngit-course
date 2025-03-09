@@ -5,3 +5,4 @@ Bob conflict change
 Alice conflict change
 Bob learn about rebase
 new admin branch
+Alice conflict change
